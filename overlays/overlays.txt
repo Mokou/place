@@ -9,4 +9,4 @@
 1109 1971 https://2hu-rplace.mokou.io/overlays/eosd_icon.png
 1570 1451 https://2hu-rplace.mokou.io/overlays/2017.png
 1611 1747 https://2hu-rplace.mokou.io/overlays/!dotted_iceice_and_firefire_1.png
-1414 1636 https://2hu-rplace.mokou.io/overlays/!dotted_ott_team.png
+1394 1611 https://2hu-rplace.mokou.io/overlays/!dotted_ott_team.png
