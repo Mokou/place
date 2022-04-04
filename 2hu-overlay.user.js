@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         [AUTO UPDATING] Touhou r/Place Hijack 2022 overlay
 // @namespace    http://tampermonkey.net/
-// @version      0.4
+// @version      0.5
 // @description  try to take over the canvas! modified from r/OsuPlace's script
 // @author       oralekin, LittleEndu, ekgame, Mokou
 // @match        https://hot-potato.reddit.com/embed*
