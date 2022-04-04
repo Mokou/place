@@ -6,6 +6,5 @@
 1676 771 https://2hu-rplace.mokou.io/overlays/sanae.png
 1699 782 https://2hu-rplace.mokou.io/overlays/pcb.png
 1787 870 https://2hu-rplace.mokou.io/overlays/marisad.png
-1787 870 https://2hu-rplace.mokou.io/overlays/marisad.png
-513 1972 https://2hu-rplace.mokou.io/overlays/eosd_icon.png
+1105 1971 https://2hu-rplace.mokou.io/overlays/eosd_icon.png
 1570 1451 https://2hu-rplace.mokou.io/overlays/2017.png
