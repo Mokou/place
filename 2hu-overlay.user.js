@@ -8,7 +8,7 @@
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=reddit.com
 // @downloadURL  https://2hu-rplace.mokou.io/2hu-overlay.user.js
 // @updateURL    https://2hu-rplace.mokou.io/2hu-overlay.user.js
-// @connect      raw.githubusercontent.com
+// @connect      2hu-rplace.mokou.io
 // @grant        GM_xmlhttpRequest
 // ==/UserScript==
 if (window.top !== window.self) {
@@ -18,7 +18,7 @@ if (window.top !== window.self) {
 
         GM_xmlhttpRequest({
             method: "GET",
-            url: "https://raw.githubusercontent.com/BenMan95/place/main/overlays/overlays.txt",
+            url: "https://2hu-rplace.mokou.io/overlays/overlays.txt",
             onload: function(r) {
                 const lines = r.responseText.split('\n');
                 for (let line of lines) {
