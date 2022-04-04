@@ -1,0 +1,11 @@
+627 130 https://raw.githubusercontent.com/BenMan95/place/main/overlays/romania_alice.png
+1438 348 https://raw.githubusercontent.com/BenMan95/place/main/overlays/koishi.png
+469 514 https://raw.githubusercontent.com/BenMan95/place/main/overlays/nitori_badapple.png
+765 684 https://raw.githubusercontent.com/BenMan95/place/main/overlays/miku_reimu.png
+763 761 https://raw.githubusercontent.com/BenMan95/place/main/overlays/smolcirno.png
+763 761 https://raw.githubusercontent.com/BenMan95/place/main/overlays/sanae.png
+1699 782 https://raw.githubusercontent.com/BenMan95/place/main/overlays/pcb.png
+1787 870 https://raw.githubusercontent.com/BenMan95/place/main/overlays/marisad.png
+1787 870 https://raw.githubusercontent.com/BenMan95/place/main/overlays/marisad.png
+513 1972 https://raw.githubusercontent.com/BenMan95/place/main/overlays/eosd_icon.png
+1570 1451 https://raw.githubusercontent.com/BenMan95/place/main/overlays/2017.png
