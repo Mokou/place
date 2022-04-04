@@ -1,3 +1,5 @@
+# Install Instructions
+
 Touhou's r/Place Hijack overlay userscript
 
 (Instructions largely copied from r/OsuPlace's guide)
