@@ -1,13 +1,13 @@
 // ==UserScript==
 // @name         [AUTO UPDATING] Touhou r/Place Hijack 2022 overlay
 // @namespace    http://tampermonkey.net/
-// @version      0.2
+// @version      0.3
 // @description  try to take over the canvas! modified from r/OsuPlace's script
 // @author       oralekin, LittleEndu, ekgame, Mokou
 // @match        https://hot-potato.reddit.com/embed*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=reddit.com
-// @downloadURL  https://2hu-rplace.mokou.io/overlay-userscript.js
-// @updateURL    https://2hu-rplace.mokou.io/overlay-userscript.js
+// @downloadURL  https://2hu-rplace.mokou.io/2hu-overlay.user.js
+// @updateURL    https://2hu-rplace.mokou.io/2hu-overlay.user.js
 // @grant        none
 // ==/UserScript==
 if (window.top !== window.self) {
