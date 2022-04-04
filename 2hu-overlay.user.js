@@ -15,10 +15,10 @@ if (window.top !== window.self) {
     window.addEventListener('load', () => {
         const camera = document.querySelector("mona-lisa-embed").shadowRoot.querySelector("mona-lisa-camera");
         const canvas = camera.querySelector("mona-lisa-canvas");
-
+        const timestamp = new Date().getTime();
         GM_xmlhttpRequest({
             method: "GET",
-            url: "https://2hu-rplace.mokou.io/overlays/overlays.txt",
+            url: "https://2hu-rplace.mokou.io/overlays/overlays.txt?t=" + timestamp,
             onload: function(r) {
                 const lines = r.responseText.split('\n');
                 for (let line of lines) {
@@ -30,7 +30,7 @@ if (window.top !== window.self) {
 
                     // Load the image
                     const image = document.createElement("img");
-                    image.src = url;
+                    image.src = url + "?t=" + timestamp;
                     image.onload = () => {
                         image.style = `position: absolute; left: ${x}px; top: ${y}px; width: ${image.width/3}px; height: ${image.height/3}px; image-rendering: pixelated; z-index: 1`;
                         console.log(image.style);
