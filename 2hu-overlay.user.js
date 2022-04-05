@@ -27,8 +27,8 @@ if (window.top !== window.self) {
                 for (let line of lines) {
                     if (!line) continue;
                     const vals = line.split(' ');
-                    const x = parseInt(vals[0]);
-                    const y = parseInt(vals[1]);
+                    const x = vals[0];
+                    const y = vals[1];
                     const url = vals[2];
 
                     // Load the image
